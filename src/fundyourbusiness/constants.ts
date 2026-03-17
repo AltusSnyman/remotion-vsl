@@ -1,0 +1,18 @@
+export const COLORS = {
+  bg: '#07080a',
+  bgCard: '#0c0d10',
+  white: '#f0f0ff',
+  emerald: '#10B981',
+  emeraldLight: '#34D399',
+  emeraldDark: '#059669',
+  gold: '#F59E0B',
+  goldLight: '#FBBF24',
+  amber: '#D97706',
+  red: '#ef4444',
+  orange: '#f97316',
+  green: '#22c55e',
+  gray: '#6b7280',
+  whatsappGreen: '#25D366',
+  imessageBlue: '#60a5fa',
+  blue: '#3b82f6',
+};

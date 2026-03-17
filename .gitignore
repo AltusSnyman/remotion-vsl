@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Ignore rendered output videos (regenerated via npx remotion render)
+out
+
+# Chrome Headless Shell (auto-downloaded by Remotion)
+.cache

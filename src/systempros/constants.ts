@@ -1,0 +1,15 @@
+export const COLORS = {
+  bg: '#050510',
+  bgCard: '#0c0c20',
+  white: '#f0f0ff',
+  cyan: '#00e5ff',
+  cyanDim: '#00e5ff66',
+  blue: '#3b82f6',
+  purple: '#a855f7',
+  green: '#22c55e',
+  red: '#ef4444',
+  orange: '#f97316',
+  gray: '#6b7280',
+  whatsappGreen: '#25D366',
+  imessageBlue: '#60a5fa',
+};
